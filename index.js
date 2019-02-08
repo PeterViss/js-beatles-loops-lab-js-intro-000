@@ -14,11 +14,11 @@ return newArr;
 
 
 function johnLennonFacts(facts){
-  var count = 0; 
-  var results = []; 
+  var count = 0;
+  var results = [];
   while (count < facts.length) {
     results.push(facts[count] + "!!!"):
     count++;
   }
-  return results; 
+  return results;
 }
