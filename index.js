@@ -4,7 +4,7 @@ var musicians = [ "John Lennon", "Paul McCartney", "George Harrison",
  var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 
-function theBeatlesPlay(musicians,instruments){
+function theBeatlesPlay(musicians,instruments) {
   var rockstar = []
 for (var i = 0, i < musicians.length, i++)
 }
