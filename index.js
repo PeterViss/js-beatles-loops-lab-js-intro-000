@@ -6,6 +6,5 @@ var musicians = [ "John Lennon", "Paul McCartney", "George Harrison",
 
 function theBeatlesPlay(musicians,instruments){
   var rockstar = []
-for ( var i = 0, i < musicians.length, i++)
-
+for (var i = 0, i < musicians.length, i++)
 }
