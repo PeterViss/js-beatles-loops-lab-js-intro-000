@@ -5,9 +5,9 @@ var musicians = [ "John Lennon", "Paul McCartney", "George Harrison",
 
 
 function theBeatlesPlay(musicians,instruments) {
-  var rockstar = []
+  var newArr = []
 for (var i = 0, i < musicians.length, i++){
-  rockstar.push(musicians[i] + "plays" + instruments[i])
+  newArr.push(musicians[i] + "plays" + instruments[i])
 }
-return rockstar;
+return newArr;
 }
